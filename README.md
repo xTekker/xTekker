@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17363
-Fork on GitHub5011
 <h1 align="center">Hi 👋, I'm Nathan!</h1>
 <h3 align="center">A passionate full(ish)-stack developer from the UK.</h3>
 
