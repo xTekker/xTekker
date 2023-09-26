@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan!</h1>
+<h1 align="center">Hi 👋, I'm Nathan! Thank you for visiting my Github</h1>
 <h3 align="center">A passionate full(ish)-stack developer from the UK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtekker&label=Profile%20views&color=0bb966&style=flat-square" alt="xtekker" /> </p>
