@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JQuery**
 
-- 👯 I’m looking to collaborate on [Doomscroller, my 2d python game](https://github.com/xTekker/Doomscroller2DGame)
+- 👯 I’m looking to collaborate on [Doomscroller, my 2d python game]([https://github.com/xTekker/Doomscroller2DGame](https://github.com/xTekker/DoomscrollerGame))
 
 - 💬 Ask me about **Engineering, AI, Machine learning, Space, Quamtum computing, Super Computers, I love everything technical.**
 
