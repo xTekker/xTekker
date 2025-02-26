@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtekker" alt="xtekker" /></a> </p>
 
-- 🔭 I’m currently working on [2D Side Scroller](https://github.com/xTekker/Doomscroller2DGame)
+- 🔭 I’m currently working on my [2D Side Scroller game](https://github.com/xTekker/Doomscroller2DGame)
 
 - 🌱 I’m currently learning **GDScript and C#**
 
