@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtekker" alt="xtekker" /></a> </p>
 
-- 🔭 I’m currently working on [my personal portfolio](https://github.com/xTekker/xTekker-Website)
+- 🔭 I’m currently working on [2D Side Scroller](https://github.com/xTekker/Doomscroller2DGame)
 
-- 🌱 I’m currently learning **JQuery**
+- 🌱 I’m currently learning **GDScript and C#**
 
-- 👯 I’m looking to collaborate on [Doomscroller, my 2d python game]([https://github.com/xTekker/Doomscroller2DGame](https://github.com/xTekker/DoomscrollerGame))
+- 👯 I’m looking to collaborate on [Doomscroller, my 2d sidescroller game]([https://github.com/xTekker/Doomscroller2DGame](https://github.com/xTekker/DoomscrollerGame))
 
 - 💬 Ask me about **Engineering, AI, Machine learning, Space, Quamtum computing, Super Computers, I love everything technical.**
 
