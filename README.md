@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtekker" alt="xtekker" /></a> </p>
 
-- 🔭 I’m currently working on my [3D Video Game]((https://github.com/Wyrmgate-Studios))
+- 🔭 I’m currently working on my [3D Video Game](https://github.com/Wyrmgate-Studios)
 
 - 🌱 I’m currently learning **GDScript and C#**
 
