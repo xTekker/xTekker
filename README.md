@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=xtekker&label=Profile%20views&color=0bb966&style=flat-square" alt="xtekker" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xtekker&theme=darkhub" alt="trophies" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xtekker" alt="xtekker" /></a> </p>
 
 ---
 
@@ -52,8 +48,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xtekker&show_icons=true&theme=dark&locale=en" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xtekker&show_icons=true&theme=dark&locale=en" alt="xtekker" /></p>
 
 ---
