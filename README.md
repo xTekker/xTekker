@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on a 3D game project at Wyrmgate Studios<br>🌱 Learning GDScript and C# for game development<br>💬 Interested in software engineering, AI, machine learning, and advanced computing systems<br>⚡ Strong interest in game development and real-time systems</p>
+<p align="left">🔭 Currently working on a 3D game project at <a href="https://wyrmgatestudios.com">Wyrmgate Studios</a><br>🌱 Learning GDScript and C# for game development<br>💬 Interested in software engineering, AI, machine learning, and advanced computing systems<br>⚡ Strong interest in game development and real-time systems</p>
 
 ###
 
